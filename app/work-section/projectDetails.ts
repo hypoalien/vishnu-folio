@@ -16,7 +16,8 @@ export const devProjects = [
     description:
       "Built fullstack applications manage software projects using Agile methodologies and develop scalable applications with Core Java and various frameworks.",
     technologies: ["Java", "Node.js", "React.js"],
-    github: "https://github.com/victorcodess/interlock",
+    // github: "https://github.com/victorcodess/interlock",
+    github: "https://github.com/vskodali",
     demo: "https://www.walgreens.com/",
     image: require(".//../../public/projects/interlock-flip.png"),
     available: true,
@@ -27,7 +28,8 @@ export const devProjects = [
     description:
       "Developed engaging web applications using technologies such as React.js, JSP, and Struts, while implementing microservices architecture.",
     technologies: ["Hibernate", "MySQL", "Jenkins"],
-    github: "https://github.com/victorcodess/synthetix",
+    // github: "https://github.com/victorcodess/synthetix",
+    github: "https://github.com/vskodali",
     demo: "https://www.linkedin.com/company/mindtreeltd",
     image: require(".//../../public/projects/synthetix.png"),
     available: true,

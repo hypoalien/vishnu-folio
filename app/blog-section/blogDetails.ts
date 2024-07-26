@@ -25,28 +25,29 @@ export const blogDetails = [
   //   available: false,
   // },
   {
-    title: "How to create exit animations with Framer Motion",
+    title: "How to Fine-Tune LLaMA 3 in Python: A Comprehensive Guide",
     image:
-      "https://cdn.hashnode.com/res/hashnode/image/upload/v1715345723909/c71d9691-fe4c-4302-b1cb-d9dca77a99b5.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "https://miro.medium.com/v2/resize:fit:720/format:webp/1*c3yi2zBR1Z-2b96Auc1yiQ.png",
     date: "MAY 2024",
-    url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
-    available: true,
-  },
-  {
-    title: "The Importance of Collaboration in Achieving Successful Design",
-    image:
-      "https://github.com/victorcodess/folio-v1/assets/84178696/05656547-3206-42af-b081-83247f9a1063",
-    date: "MAY 2024",
-    url: "https://blog.victorwilliams.me/importance-of-collaboration-in-design",
+    url: "https://medium.com/@vishnusaik/how-to-fine-tune-llama-3-in-python-a-comprehensive-guide-1b7c87850216",
     available: true,
   },
   {
     title:
-      "Step-by-Step Guide: Adding Google Maps to Your React App Using Vis.gl",
+      "Horizontal Scaling vs. Vertical Scaling in AWS Cloud: A Comprehensive Guide",
     image:
-      "https://github.com/victorcodess/folio-v1/assets/84178696/c2693469-e5c6-43ad-a857-693bbbfe7b9a",
+      "https://miro.medium.com/v2/resize:fit:720/format:webp/1*NEaCfs4aDvsoWvxBDvEobQ.png",
+    date: "MAY 2024",
+    url: "https://medium.com/@vishnusaik/horizontal-scaling-vs-vertical-scaling-in-aws-cloud-a-comprehensive-guide-45c9c26c908a",
+    available: true,
+  },
+  {
+    title:
+      "Understanding Redis: Solutions, Case Studies, and Practical Examples",
+    image:
+      "https://miro.medium.com/v2/resize:fit:720/format:webp/1*tjceopIYSudZbcUxnTD64Q.png",
     date: "APR 2024",
-    url: "https://blog.victorwilliams.me/how-to-add-google-maps-to-react-app-visgl",
+    url: "https://medium.com/@vishnusaik/understanding-redis-solutions-case-studies-and-practical-examples-1d411835223b",
     available: true,
   },
   // {

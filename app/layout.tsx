@@ -11,9 +11,9 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Vishnu Kodali — Frontend Engineer",
+  title: "Vishnu Kodali — Software Engineer",
   description:
-    "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Software Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
   generator: "Next.js",
   applicationName: "Vishnu Kodali",
   keywords: [
@@ -37,11 +37,11 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Vishnu Kodali — Frontend Engineer",
+    title: "Vishnu Kodali — Software Engineer",
     description:
       "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+    // url: "https://www.victorwilliams.me/",
+    // siteName: "www.victorwilliams.me",
     images: [
       {
         url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
@@ -58,11 +58,11 @@ export const metadata: Metadata = {
     title: "Vishnu Kodali — Frontend Engineer",
     description:
       "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    creator: "victorwill__",
+    // creator: "victorwill__",
     creatorId: "1243720976552144897",
-    images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
-    ],
+    // images: [
+    //   "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+    // ],
   },
   robots: {
     index: true,
