@@ -13,7 +13,7 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Vishnu Kodali — Software Engineer",
   description:
-    "Software Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    " Fullstack Engineer and Java Developer, prev at Walgreens and Mindtree  currently available for work.",
   generator: "Next.js",
   applicationName: "Vishnu Kodali",
   keywords: [
@@ -39,12 +39,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Vishnu Kodali — Software Engineer",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      " Fullstack Engineer and Java Developer, prev at Walgreens and Mindtree  currently available for work.",
     // url: "https://www.victorwilliams.me/",
     // siteName: "www.victorwilliams.me",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "image.png",
         width: 1200,
         height: 630,
         alt: "Vishnu Kodali — Frontend Engineer",
@@ -60,13 +60,11 @@ export const metadata: Metadata = {
       "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
     // creator: "victorwill__",
     creatorId: "1243720976552144897",
-    // images: [
-    //   "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
-    // ],
+    images: ["image.png"],
   },
   robots: {
     index: true,
-    follow: true,
+    follow: true, 
     nocache: false,
     googleBot: {
       index: true,
